@@ -1,0 +1,107 @@
+
+body{
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+margin: 0;
+ }
+ .top{
+   padding-top: -10px;
+   background-color: #D1E8E4;
+position:relative;
+top: 0;
+left: 0;
+right: 0;
+}
+  h1
+{   position: relative;
+    font-family: 'Explora', cursive;
+    font-size: 5rem;
+
+
+}
+
+hr{
+  border: dotted black 4px;
+  border-top: 0;
+  width: 4%;
+margin-top: 100px;
+margin-bottom: 100px;
+
+}
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+.h2{
+
+font-weight: normal;
+
+
+  width: 30%;
+  margin: 40px auto 60px;
+}
+.h{
+    font-size: 2rem;
+}
+.top-cloud{
+  margin-top: 10px;
+  position:relative;
+  left:20%;
+}
+.mountain{
+  height: 50%;
+  width: 50%;
+}
+.skill-row{
+  margin-top: 100px;
+  width: 50%;
+  padding-left:  25%;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+.cp{
+  float:left;
+  margin-right: 30px;
+}
+.wb{
+  float: right;
+  margin-left: 30px;
+ width: 100px;
+}
+
+.middle-container{
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.bottom-container{
+  background-color: #39A388;
+padding: 50px 0 20px;
+}
+
+.myButton {
+	box-shadow:inset 0px 0px 0px 2px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:22px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:19px;
+	padding:8px 22px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
